@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Metric - Beginner's Guide</title>
+    <style>
+        body { font-family: sans-serif; background: #0d1117; color: #c9d1d9; text-align: center; padding: 50px; }
+        h1 { color: #58a6ff; }
+        .features { display: flex; justify-content: center; gap: 20px; margin-top: 30px; }
+        .card { background: #161b22; padding: 20px; border-radius: 10px; width: 200px; }
+    </style>
+</head>
+<body>
+    <h1>Welcome to Metric</h1>
+    <p>Your beginner-friendly guide to the Metric decentralized application.</p>
+    
+    <div class="features">
+        <div class="card">
+            <h3>Feature 1</h3>
+            <p>Explain your product's main feature here.</p>
+        </div>
+        <div class="card">
+            <h3>Feature 2</h3>
+            <p>Explain another key part of your dapp.</p>
+        </div>
+    </div>
+</body>
+</html>
